@@ -4,6 +4,12 @@
 
 ###Feel free to tinker with any of the config settings at the top of the file, good luck, and have fun!
 
+##Usage:
+You will need the SDL and SDL2 libraries, and as a result you may have to edit the includes path according to your system. After that, just do
+`g++ main.cpp -lSDL2 -std=c++11` 
+`./a.out`
+To compile and run it.
+
 ###In-Game Screenshot:
 [!screenshot](https://github.com/DarkElement75/flappy-bird-barebones/screenshot.png)
 
