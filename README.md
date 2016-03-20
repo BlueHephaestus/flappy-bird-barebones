@@ -16,5 +16,5 @@ q -> Close window and quit.
 Space -> Jump and restart if you have died.
 
 ###In-Game Screenshot:
-[!screenshot](https://github.com/DarkElement75/flappy-bird-barebones/screenshot.png)
+![Screenshot](https://github.com/DarkElement75/flappy-bird-barebones/blob/master/screenshot.png)
 
